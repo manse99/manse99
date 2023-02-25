@@ -1,6 +1,6 @@
 # manse99
 # 💫 About Me:
-Meet Gabriel, a software developer and U.S. Army veteran <br>with a passion for innovation and problem-solving. <br>Gabriel's experience in the military has taught him the <br>importance of precision, attention to detail, and teamwork, <br>skills he now brings to his work as a software developer. <br>Whether he's creating complex algorithms or designing <br>intuitive user interfaces, Gabriel is dedicated to producing <br>high-quality software that meets the needs of his clients <br>and end-users. With a unique blend of technical expertise <br>and military discipline, Gabriel is well-equipped to tackle <br>even the toughest programming challenges.  
+Meet Gabriel, a software developer and U.S. Army veteran <br>with a passion for innovation and problem-solving. <br>My experience in the military has taught him the <br>importance of precision, attention to detail, and teamwork, <br>skills I bring to work as a software developer. <br>Whether I am creating complex algorithms or designing <br>intuitive user interfaces, I'm dedicated to producing <br>high-quality software that meets the needs of clients <br>and end-users. With a unique blend of technical expertise <br>and military discipline, I am well-equipped to tackle <br>even the toughest programming challenges.  
 
 
 ## 🌐 Socials:
