@@ -1,7 +1,7 @@
 # manse99
 # 💫 About Me:
-Meet Gabriel, a software developer and U.S. Army veteran <br>with a passion for innovation and problem-solving. <br>My experience in the military has taught me the <br>importance of precision, attention to detail, and teamwork, <br>along with the skills I bring to work as a software developer. <br>Whether I am creating algorithms or designing <br>intuitive user interfaces, I'm dedicated to producing <br>high-quality software that meets the needs of my clients <br>and end-users. I committed to a unique blend of technical expertise <br>with a military discipline, I am well-equipped to tackle <br>even the toughest programming challenges.  
-
+Meet Gabriel, a software developer and U.S. Army veteran <br>who has a passion for innovation and problem-solving. <br>My experience in the military has taught me the <br>importance of precision, attention to detail and teamwork, <br>and with the technical skills I bring to bare as a software developer. I am well-equipped to code <br> all sorts of programming challenges.  
+<br>I'm dedicated to producing <br>quality code that meets the needs of my clients <br>and end-users. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Manse999@instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-cohen-81235114a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Manse99) 
